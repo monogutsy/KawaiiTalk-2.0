@@ -1,0 +1,17 @@
+{
+    "prefix": "*",
+    "daily_min": 50,
+    "daily_max": 150,
+    "streak_bonus": 10,
+    "gamble_win_chance": 0.75,
+    "gamble_multiplier": 2,
+    "mine_min": 10,
+    "mine_max": 30,
+    "boring_reply_chance": 0.1,
+    "exciting_reply_chance": 0.1,
+    "neutral_emoji_chance": 0.2,
+    "reply_enabled": true,
+    "leaderboard_size": 10,
+    "show_medals": true,
+    "show_user_count": true
+}
