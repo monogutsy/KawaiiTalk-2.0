@@ -52,12 +52,3 @@ It handles economy, streaks, fun extras, and configurable settings — all wrapp
   - Catch‑all fallback: “Something broke. :|”
 
 ---
-
-# Contributing to KawaiiTalk Bot
-
-First off, thanks for taking the time to contribute! :|
-
-The following is a set of guidelines for contributing to **KawaiiTalk Bot**.  
-These are mostly suggestions, not rules. Use your best judgment, and feel free to propose changes.
-
----
